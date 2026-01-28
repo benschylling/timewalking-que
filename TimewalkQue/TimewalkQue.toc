@@ -1,0 +1,11 @@
+## Interface: 110005
+## Title: TimewalkQue
+## Author: YourName
+## Version: 1.0.0
+## Notes: Automatically selects Random Timewalking Dungeon when timewalking event is active
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+TimewalkQue.lua
+localization.lua
+TimewalkQue.xml
